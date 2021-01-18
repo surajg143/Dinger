@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dinger</string>
+    <string name="homepage" />
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="welcome">Welcome</string>
+    <string name="todo">TODO</string>
+    <string name="dogsimage">DOGIMAGE</string>
+    <string name="like">Like</string>
+    <string name="like_btn">TODO</string>
+</resources>
